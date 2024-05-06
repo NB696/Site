@@ -1,0 +1,32 @@
+/* couleurs pour paragraphes */
+h1 {color: rgb(254, 200, 5);
+    font-size: 60px;
+    text-align: center;
+}
+li{
+    font-size: 30px;
+}
+p{
+    text-align: center;
+}
+
+a{
+    text-align: center;
+}
+body {
+    color: white ;
+    background-color: rgb(2, 2, 45);
+  }
+  ul, li{
+    background: fixed;
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+  }
+  tbody{
+    text-align: center;
+  }
+  footer{
+    background-color: white;
+color: black;
+  }
